@@ -1,2 +1,8 @@
+/* Optional custom styles */
+body {
+  background-color: #f8f9fa;
+}
 
-/* Your CSS Code here. */
+.card {
+  border-radius: 8px;
+}
